@@ -1,0 +1,32 @@
+Scene,Chunk,Emotion,Score
+1,"Evelyn Quan Wang is a middle-aged Chinese immigrant who runs a laundromat with her husband, Waymond.",neutral,0.7923
+2,"Two decades earlier, they eloped to the United States and had a daughter, Joy.",joy,0.9145
+3,"In the present day, Evelyn is enduring multiple struggles: the laundromat is being audited by the Internal Revenue Service (IRS); Waymond is attempting to serve her with divorce papers in an effort to spark a discussion about their marriage; her rigorous father (referred to as Gong Gong, Cantonese for grandfather) is visiting for her Chinese New Year party; and she has a strained relationship with Joy, who is battling depression and has a non-Chinese girlfriend, Becky, whom Evelyn is reluctant to accept.",fear,0.5755
+4,"At a tense meeting with IRS Revenue Agent Deirdre Beaubeirdre, Waymond's body is taken over by Alpha-Waymond, a version of Waymond from the ""Alphaverse.""",disgust,0.2899
+5,"Alpha-Waymond explains to Evelyn that many parallel universes exist (the ""multiverse"") because every life choice creates a new alternative universe.",neutral,0.9214
+6,"In the Alphaverse, the now-deceased Alpha-Evelyn developed ""verse-jumping"" technology, which enables people to access the skills, memories, and bodies of their parallel selves by performing bizarre actions that are statistically unlikely.",surprise,0.5456
+7,"The multiverse is threatened by Jobu Tupaki, the Alpha-Joy whose mind was splintered after Alpha-Evelyn pushed her to verse-jump beyond her endurance.",fear,0.9801
+8,Jobu experiences all universes at once and can verse-jump and manipulate matter at will.,neutral,0.8516
+9,"Jobu has created a black hole-like ""Everything Bagel"" that forms a toroid singularity that could destroy the multiverse.",neutral,0.4024
+10,"Evelyn is provided verse-jumping technology to fight Jobu's minions, who are converging on the IRS building.",neutral,0.9233
+11,"She uncovers other universes in which she made different choices and flourished, such as becoming a kung fu master and film star.",neutral,0.9465
+12,She also learns that Waymond intends to file for divorce.,sadness,0.9218
+13,"Alpha-Waymond believes that Evelyn, as the greatest ""failure"" of all Evelyns in the multiverse, possesses the untapped potential needed to defeat Jobu.",neutral,0.848
+14,"Gong Gong is taken over by Alpha-Gong Gong, who instructs Evelyn to kill Joy to prevent Jobu from using her to access Evelyn's universe.",anger,0.3516
+15,Evelyn refuses and decides to face Jobu by acquiring powers through repeated verse-jumping.,anger,0.7052
+16,"Alpha-Gong Gong, convinced that Evelyn's mind has been compromised like Jobu's, sends soldiers after Evelyn.",neutral,0.7117
+17,"While they fight, Jobu locates and kills Alpha-Waymond in the Alphaverse.",neutral,0.5708
+18,"As Jobu confronts Evelyn in her universe, Evelyn's mind begins to splinter, causing her to collapse.",fear,0.4713
+19,Evelyn uncontrollably verse-jumps alongside Jobu across many bizarre and diverse universes.,surprise,0.6006
+20,"Jobu discloses she does not intend to fight, but that instead, she has been searching for an Evelyn who can see, as she does, that nothing matters.",neutral,0.7311
+21,"She teleports Evelyn to the Everything Bagel, divulging that she wants to use it to allow herself and Evelyn to truly die.",neutral,0.8331
+22,"Upon looking into the Bagel, Evelyn is initially persuaded, and behaves cruelly and nihilistically in her other universes, hurting those around her.",disgust,0.6934
+23,"Just as Evelyn enters the Bagel with Jobu, she pauses to listen to Waymond's pleas in her universe for everybody to stop fighting and to instead practice kindness, even when life is senseless.",neutral,0.7516
+24,"Evelyn has an existentialist epiphany and decides to follow Waymond's absurdist and humanitarian advice, utilizing her multiverse powers to fight with empathy and bring happiness to those around her.",neutral,0.6534
+25,"In doing so, she repairs her damage in the other universes and neutralizes Alpha-Gong Gong and Jobu's fighters.",neutral,0.727
+26,"In her home universe, Evelyn reconciles with Waymond, accepts Joy and Becky's relationship and divulges it to Gong Gong, while Waymond convinces Deirdre to let them redo their taxes.",neutral,0.5064
+27,"Jobu decides to enter the Bagel alone as, simultaneously in Evelyn's universe, Joy pleads with Evelyn to let her go.",sadness,0.5884
+28,"Evelyn tells Joy that even when nothing makes sense and even though she could be anywhere else in the multiverse, she will always want to be with Joy.",neutral,0.6727
+29,"Evelyn and the others save Jobu from the Bagel, and Evelyn and Joy embrace.",joy,0.555
+30,"Sometime later, with the family's relationships improved, they return to the IRS building to refile their taxes.",neutral,0.9543
+31,"As Deirdre talks, Evelyn's attention is momentarily drawn to her alternative selves, before she grounds herself back in her home universe.",neutral,0.9151

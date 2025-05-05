@@ -1,0 +1,30 @@
+Scene,Chunk,Emotion,Score
+1,"Dom Cobb and Arthur are ""extractors"" who perform corporate espionage using experimental dream-sharing technology to infiltrate their targets' subconscious and extract information.",neutral,0.6632
+2,"Their latest target, Saito, is impressed with Cobb's ability to layer multiple dreams within each other.",surprise,0.731
+3,"He offers to hire Cobb for the ostensibly impossible job of implanting an idea into a person's subconscious; performing ""inception"" on Robert Fischer, the son of Saito's competitor Maurice Fischer, with the idea to dissolve his father's company.",neutral,0.4088
+4,"In return, Saito promises to clear Cobb's criminal status, allowing him to return home to his children.",neutral,0.6536
+5,"Cobb accepts the offer and assembles his team: a forger named Eames, a chemist named Yusuf, and a college student named Ariadne.",neutral,0.7484
+6,"Ariadne is tasked with designing the dream's architecture, something Cobb himself cannot do for fear of being sabotaged by his mind's projection of his late wife, Mal.",fear,0.66
+7,"Maurice Fischer dies, and the team sedates Robert Fischer into a three-layer shared dream on an airplane to America bought by Saito.",sadness,0.952
+8,"Time on each layer runs slower than the layer above, with one member staying behind on each to perform a music-synchronized ""kick"" (using the French song ""Non, je ne regrette rien"") to awaken dreamers on all three levels simultaneously.",neutral,0.9306
+9,"The team abducts Robert in a city on the first level, but his trained subconscious projections attack them.",anger,0.4509
+10,"After Saito is wounded, Cobb reveals that while dying in the dream would usually awaken dreamers, Yusuf's sedatives will instead send them into ""Limbo"": a world of infinite subconscious.",neutral,0.7607
+11,"Eames impersonates Robert's godfather, Peter Browning, to introduce the idea of an alternate will to dissolve the company.",neutral,0.7867
+12,"Cobb tells Ariadne that he and Mal entered Limbo while experimenting with dream-sharing, experiencing fifty years in one night due to the time dilation with reality.",neutral,0.6616
+13,"After waking up, Mal still believed she was dreaming.",surprise,0.4784
+14,"Attempting to ""wake up,"" she committed suicide and framed Cobb for her murder to force him to do the same.",fear,0.3746
+15,"Cobb fled the U.S., leaving his children behind.",sadness,0.4516
+16,"Yusuf drives the team around the first level as they are sedated into the second level, a hotel dreamed by Arthur.",neutral,0.8825
+17,"Cobb persuades Robert that Browning has kidnapped him to stop the dissolution and that Cobb is a defensive projection, leading Robert to another third level deeper as part of a ruse to enter Robert's subconscious.",neutral,0.5057
+18,"In the third level, the team infiltrates an alpine fortress with a projection of Maurice inside, where the inception itself can be performed.",neutral,0.6352
+19,"However, Yusuf performs his kick too soon by driving off a bridge, forcing Arthur and Eames to improvise a new set of kicks synchronized with them hitting the water by rigging an elevator and the fortress, respectively, with explosives.",disgust,0.3524
+20,"Mal then appears and kills Robert before he can be subjected to the inception, and he and Saito are lost in Limbo, forcing Cobb and Ariadne to rescue them in time for Robert's inception and Eames's kick.",neutral,0.382
+21,"Cobb reveals that during their time in Limbo, Mal refused to return to reality; Cobb had to convince her it was only a dream, accidentally incepting in her the belief that the real world was still a dream.",neutral,0.4437
+22,Cobb makes peace with his part in Mal's death.,sadness,0.623
+23,Ariadne kills Mal's projection and wakes Robert up with a kick.,anger,0.6322
+24,"Revived into the third level, Robert discovers the planted idea: his dying father telling him to create something for himself.",neutral,0.8372
+25,"While Cobb searches for Saito in Limbo, the others ride the synced kicks back to reality.",neutral,0.9614
+26,Cobb finds an aged Saito and reminds him of their agreement.,neutral,0.9243
+27,"The dreamers all awaken on the plane, and Saito makes a phone call.",neutral,0.8629
+28,"Arriving in Los Angeles, Cobb passes the immigration checkpoint, and his father-in-law accompanies him to his home.",neutral,0.8345
+29,"Cobb uses Mal's ""totem"" – a top that spins indefinitely in a dream – to test if he is indeed in the real world, but he chooses not to observe the result and instead joins his children.",neutral,0.8581
