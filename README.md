@@ -1,74 +1,93 @@
-# CineMood 
+# Cinemood: Movie Emotion Analyzer
 
-**CineMood** is an AI-powered application that analyzes user emotions to generate personalized movie recommendations. It uses natural language processing and external data sources to suggest movies that align with your feelings.
+Cinemood is a modern web application that analyzes the emotional content of movie plots using AI technology. It provides detailed insights into the emotional journey of movies through beautiful visualizations and comprehensive analysis.
 
----
+## Features
 
-## 🎬 Features
+- Movie plot analysis using AI-powered emotion detection
+- Two input methods:
+  - Fetch movie plots by title from Wikipedia
+  - Input custom movie plots
+- Comprehensive analysis results:
+  - Scene-by-scene emotion breakdown
+  - Emotion distribution visualization
+  - Storytelling insights
+- Modern, responsive user interface
+- Dark mode design
 
-- 🧠 **Emotion Analysis**: Detects emotions from user text input.
-- 🎥 **Personalized Movie Recommendations**: Suggests movies based on your emotions.
-- 📚 **Wikipedia Integration**: Retrieves summaries of recommended movies.
-- 📊 **Visual Insights**: Displays emotion and recommendation data in charts.
+## Tech Stack
 
----
+### Backend
+- FastAPI (Python)
+- Transformers (Hugging Face)
+- Wikipedia API
+- Matplotlib/Seaborn for visualizations
 
-## 🚀 Getting Started
+### Frontend
+- React with TypeScript
+- Material-UI
+- Axios for API calls
+- React Router for navigation
 
-### 🔧 Prerequisites
+## Setup Instructions
 
-Make sure you have Python installed. Then, install the required libraries:
+### Backend Setup
 
-```bash 
+1. Create a Python virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
-### 📦 Clone the Repository
-```bash 
-git clone https://github.com/sayyidsyamil/cinemood.git
-cd cinemood
+3. Start the backend server:
+```bash
+cd backend
+uvicorn main:app --reload
 ```
 
-### ▶️ Run the Application
-```bash 
-python app.py
+The backend server will run on http://localhost:8000
+
+### Frontend Setup
+
+1. Install dependencies:
+```bash
+cd frontend
+npm install
 ```
 
-## 📁 Project Structure
-```bash 
-cinemood/
-├── app.py                 # Main application script
-├── emotion_utils.py       # Handles emotion detection
-├── report_generator.py    # Generates output reports
-├── visuals.py             # Visualization functions
-├── wiki_fetcher.py        # Gets movie summaries from Wikipedia
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+2. Start the development server:
+```bash
+npm start
 ```
 
-## 🧪 Usage
+The frontend application will run on http://localhost:3000
 
-1. Run the app.
-2. Enter your current thoughts or feelings.
-3. View emotion analysis results.
-4. Get recommended movies with summaries and visuals.
+## Usage
 
-## 🤝 Contributing
-Contributions are welcome! To contribute:
+1. Open http://localhost:3000 in your web browser
+2. Choose your preferred input method:
+   - Enter a movie title to fetch its plot from Wikipedia
+   - Or paste a custom movie plot
+3. Click "Analyze" to process the plot
+4. View the comprehensive analysis results:
+   - Plot summary
+   - Emotion distribution graph
+   - Storytelling insights
+   - Scene-by-scene emotion breakdown
 
-1. Fork the repo.
-2. Create your feature branch (git checkout -b feature/my-feature)
-3. Commit your changes (git commit -m 'Add my feature')
-4. Push to the branch (git push origin feature/my-feature)
-5. Open a Pull Request
+## API Documentation
 
----
+The backend API documentation is available at http://localhost:8000/docs when the server is running.
 
-## ✨ Credits
+## Contributing
 
-> Developed with 💡 by  
-> **[@Sayyid Syamil](https://github.com/sayyidsyamil)** · **[@Hafiz Adha](https://github.com/hafizadha)** · **[@Luqman Nurhakim](https://github.com/lqmannn4)**  
-> _Passion. Code. Cinema._
+Contributions are welcome! Please feel free to submit a Pull Request.
 
----
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details. 

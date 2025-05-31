@@ -1,9 +1,0 @@
-# requirements.txt
-transformers[torch]  # Or transformers[tensorflow] if you prefer TF
-gradio
-wikipedia
-ltk
-matplotlib
-pandas
-fpdf2 # Use fpdf2 as the original fpdf is less maintained
-spacy # Added SpaCy as an alternative/complement for sentence splitting 
