@@ -1,1 +1,10 @@
-./backend/venv
+backend/venv
+
+frontend/node_modules/
+
+*.lib
+*.dll
+
+# Other
+*.log
+*.cache/
